@@ -1,4 +1,9 @@
+import os
 import streamlit as st
+
+# Force install nltk if missing
+os.system("pip install nltk")
+
 import nltk
 from transformers import pipeline
 from nltk.corpus import stopwords
@@ -45,4 +50,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
