@@ -49,4 +49,5 @@ streamlit run app.py
    - "Can I schedule an appointment?"
    - "Is it safe to skip my medication?"
 - 3️⃣ The chatbot processes your query and provides either rule-based advice or an AI-generated response.
+## 🌍 Interface Preview
 
