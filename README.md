@@ -42,11 +42,11 @@ streamlit run app.py
 │── README.md           # Project documentation
 ```
 ## 💻 Usage
-```bash
-1️⃣ Open the chatbot interface using the Streamlit web application.
-2️⃣ Enter a health-related query, such as:
+
+- 1️⃣ Open the chatbot interface using the Streamlit web application.
+- 2️⃣ Enter a health-related query, such as:
  "What should I do if I have a fever?"
  "Can I schedule an appointment?"
  "Is it safe to skip my medication?"
-3️⃣ The chatbot processes your query and provides either rule-based advice or an AI-generated response.
-```
+- 3️⃣ The chatbot processes your query and provides either rule-based advice or an AI-generated response.
+
