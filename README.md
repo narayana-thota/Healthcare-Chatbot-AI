@@ -1,4 +1,4 @@
-# 🌟 Healthcare Assistant Chatbot 🏥🤖
+# ✨ Healthcare Assistant Chatbot 🏥🤖
 
 ## 🎯 Overview
 The **Healthcare Assistant Chatbot** is an AI-powered chatbot built using **Streamlit and DistilGPT-2** to provide **basic healthcare guidance**. It assists users by responding to queries related to **symptoms, appointments, medications, and general health advice**. The chatbot utilizes a **rule-based approach for predefined responses** and **AI-based text generation** for general queries.
@@ -14,7 +14,7 @@ The **Healthcare Assistant Chatbot** is an AI-powered chatbot built using **Stre
 
 ---
 
-## 🛠️ Technologies Used
+## 🫠 Technologies Used
 - 🔹 **Python**  
 - 🔹 **Streamlit** (for UI and deployment)  
 - 🔹 **Transformers (Hugging Face)** (for AI-based responses)  
@@ -34,7 +34,7 @@ To start the chatbot, run the following command:
 ```bash
 streamlit run app.py
 ```
-## 📂 Project Structure
+## 🐂 Project Structure
 ```bash
 /Healthcare-Chatbot
 │── app.py               # Main application script
@@ -49,6 +49,6 @@ streamlit run app.py
    - "Can I schedule an appointment?"
    - "Is it safe to skip my medication?"
 - 3️⃣ The chatbot processes your query and provides either rule-based advice or an AI-generated response.
-## 🌍 Interface Preview
- ![Example Image](https://postimg.cc/TpsHz7Bn)
 
+## 🌍 Interface Preview
+![Example Image](https://i.postimg.cc/pLVbn3Zc/IMG-20250211-WA0006.jpg)
