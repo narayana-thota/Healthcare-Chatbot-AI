@@ -50,4 +50,4 @@ streamlit run app.py
    - "Is it safe to skip my medication?"
 - 3️⃣ The chatbot processes your query and provides either rule-based advice or an AI-generated response.
 ## 🌍 Interface Preview
-![Example Image](![IMG-20250211-WA0006](https://postimg.cc/TpsHz7Bn)
+![Example Image](![IMG-20250211-WA0006](https://postimg.cc/TpsHz7Bn))
