@@ -60,5 +60,5 @@ streamlit run app.py
 ## 🌍 Interface Preview
 ![Example Image](https://i.postimg.cc/pLVbn3Zc/IMG-20250211-WA0006.jpg)
 
-## 👤 Contributor
+## 👨‍💻 Developed BY
 - **Thota Om Sada Siva Venkata Narayana**
