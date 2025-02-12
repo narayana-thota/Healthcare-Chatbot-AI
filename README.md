@@ -14,16 +14,16 @@ The **Healthcare Assistant Chatbot** is an AI-powered chatbot built using **Stre
 
 ---
 
-## 🫠 Technologies Used
-- 🔹 **Python**  
-- 🔹 **Streamlit** (for UI and deployment)  
-- 🔹 **Transformers (Hugging Face)** (for AI-based responses)  
-- 🔹 **NLTK** (for text preprocessing)  
-- 🔹 **TensorFlow & tf-keras**  
+## 🛠️ Technologies Used
+- 🐍 **Python**  
+- 🌐 **Streamlit** (for UI and deployment)  
+- 🤖 **Transformers (Hugging Face)** (for AI-based responses)  
+- 📊 **NLTK** (for text preprocessing)  
+- 🔬 **TensorFlow & tf-keras**  
 
 ---
 
-## ⚙️ Installation & Setup
+## 🛠️ Installation & Setup
 ### 📌 Prerequisites
 Ensure you have Python installed. Install the required dependencies:
 ```bash
@@ -34,15 +34,16 @@ To start the chatbot, run the following command:
 ```bash
 streamlit run app.py
 ```
-## 🐂 Project Structure
+
+## 📂 Project Structure
 ```bash
 /Healthcare-Chatbot
-│── app.py               # Main application script
-│── requirements.txt     # Dependencies
-│── README.md           # Project documentation
+|— app.py               # Main application script
+|— requirements.txt     # Dependencies
+|— README.md           # Project documentation
 ```
-## 💻 Usage
 
+## 💻 Usage
 - 1️⃣ Open the chatbot interface using the Streamlit web application.
 - 2️⃣ Enter a health-related query, such as:
    - "What should I do if I have a fever?"
@@ -50,5 +51,14 @@ streamlit run app.py
    - "Is it safe to skip my medication?"
 - 3️⃣ The chatbot processes your query and provides either rule-based advice or an AI-generated response.
 
+## 🌐 Live Deployment
+[Healthcare Assistant Chatbot](https://healthcare-chatbot-ai-kvh3smtuxf4upikxvzr8dn.streamlit.app/)
+
+## 📚 GitHub Repository
+[Healthcare Chatbot AI](https://github.com/narayana-thota/Healthcare-Chatbot-AI)
+
 ## 🌍 Interface Preview
 ![Example Image](https://i.postimg.cc/pLVbn3Zc/IMG-20250211-WA0006.jpg)
+
+## 👤 Contributor
+- **Thota Om Sada Siva Venkata Narayana**
